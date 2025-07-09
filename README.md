@@ -1,4 +1,19 @@
-# React + TypeScript + Vite
+News Profile App
+
+A modern React application demonstrating authentication, profile management, and news browsing with a clean UI.
+Built with TypeScript, Redux Toolkit, RTK Query, React Router v6, and CSS Modules.
+Posts and user data are fetched from JSONPlaceholder.
+
+Features:
+🗝️ Authentication (login with username and password, protected routes)
+👤 Profile page (user info loaded from API)
+📰 News feed (list of posts from JSONPlaceholder)
+⚡ State management with Redux Toolkit & RTK Query
+💾 Auth state is saved in localStorage
+🔗 Navigation with React Router v6 and protected pages
+🎨 Modern responsive UI with CSS Modules and Google Fonts
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
