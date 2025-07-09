@@ -1,6 +1,6 @@
 News Profile App
 
-https://news-profile-eight.vercel.app/news
+https://news-profile-eight.vercel.app/
 
 
 A modern React application demonstrating authentication, profile management, and news browsing with a clean UI.
