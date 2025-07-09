@@ -1,0 +1,52 @@
+.homeContainer {
+  max-width: 500px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 6px 36px rgba(44, 62, 80, 0.13);
+  padding: 38px 22px 30px 22px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.homeTitle {
+  font-size: 2.2rem;
+  margin-bottom: 22px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.homeDescription {
+  font-size: 1.12rem;
+  color: #444;
+  margin-bottom: 30px;
+  line-height: 1.65;
+}
+
+.homeNote {
+  color: #7d7d7d;
+  font-size: 1.02rem;
+  margin-bottom: 22px;
+  line-height: 1.4;
+}
+
+.homeTestData {
+  background: #f7f7e2;
+  border-radius: 8px;
+  padding: 12px 0;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+@media (max-width: 600px) {
+  .homeContainer {
+    padding: 22px 5px 14px 5px;
+    max-width: 99vw;
+  }
+
+  .homeTitle {
+    font-size: 1.2rem;
+  }
+}
