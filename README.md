@@ -1,5 +1,8 @@
 News Profile App
 
+https://news-profile-eight.vercel.app/news
+
+
 A modern React application demonstrating authentication, profile management, and news browsing with a clean UI.
 Built with TypeScript, Redux Toolkit, RTK Query, React Router v6, and CSS Modules.
 Posts and user data are fetched from JSONPlaceholder.
